@@ -1,9 +1,5 @@
 # Guía de Estudio
 
-<<<<<<< HEAD
-
-=======
->>>>>>> ffe3cbad542fec36b12153b6526bb1ba0f1ee1a3
 ## Flujo de Trabajo
 Para contribuir, sigue estos pasos:
 
