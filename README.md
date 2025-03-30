@@ -1,5 +1,6 @@
 # Guía de Estudio
 
+
 ## Flujo de Trabajo
 Para contribuir, sigue estos pasos:
 
