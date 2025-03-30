@@ -1,6 +1,9 @@
 # Guía de Estudio
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ffe3cbad542fec36b12153b6526bb1ba0f1ee1a3
 ## Flujo de Trabajo
 Para contribuir, sigue estos pasos:
 
@@ -24,4 +27,8 @@ Para contribuir, sigue estos pasos:
 
 ## Reglas y Buenas Prácticas
 - Mantén un código limpio y bien documentado.
+<<<<<<< HEAD
 - Sigue el formato de nombres y estructuras establecidas en cada ejercicio.
+=======
+- Sigue el formato de nombres y estructuras establecidas en cada ejercicio.
+>>>>>>> ffe3cbad542fec36b12153b6526bb1ba0f1ee1a3
